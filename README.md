@@ -1,4 +1,4 @@
-# SD-AutoPromote 🎨
+# SD-AutoPrompt 🎨
 
 **从图片中自动提取 Stable Diffusion 提示词**
 
